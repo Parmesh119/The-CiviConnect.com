@@ -1,1 +1,1 @@
-Logo of our Project name :- CiviConnect.com
+Project name :- CiviConnect.com
